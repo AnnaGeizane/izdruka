@@ -15,7 +15,7 @@ print('sveiki')
 print("sveika\ pasaule")#izdrukā divā rindās
 print("sveika, \tpasaule")#izdrukā ar atkāpi tab
 
-#sting garus- len()
+#string garus- len()
 print(len("sveiki"))
 print(len("es esmu šeit"))# atstarpes arī skaitās
 """
