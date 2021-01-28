@@ -26,3 +26,44 @@ pop_elen= jauns_list.pop()
 print(pop_elen)
 jauns_list.pop(0)#noņem elementu ar norādīto indeksu
 print(jauns_list)
+
+#elementu kārtošana
+new_list = ["b", "a", "z", "e"]
+print(new_list)
+new_list.sort()
+print(new_list)
+new_list.reverse()
+print(new_list)
+nun_list=[4,8,1,3]
+print(nun_list)
+nun_list.reverse()
+print(nun_list)
+nun_list.sort()
+print(nun_list)
+s = [3.19, 100, 12,8]
+s.sort()
+print(s)
+
+#saraksts sarakstā (nested)
+nested_list = [8,6, [5,7]]
+print(len(nested_list))
+print(nested_list[1])
+print(nested_list[2][1])
+
+#piemēri
+augli = ['ābols', 'banāns', 'gurķis']
+print(augli[2])
+augli [2] = 'apelsīns'
+print(augli)
+
+augli.append('bumbieris')
+print(aigli)
+
+#iespraust elementu noteiktā vietā
+augli.insert(2, "citrons")
+print(augli)
+#izņemt no saraksta
+augli.pop(1)
+print(augli)
+#izdrukāt pilnā tekumā cuik augļi ir arakstā
+print(f"šajā sarakstā ir {len(augli)} augļi ")
