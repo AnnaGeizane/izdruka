@@ -1,1 +1,1 @@
-import uzdevumi
+import vardnica
