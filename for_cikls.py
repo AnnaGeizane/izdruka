@@ -28,7 +28,7 @@ print (summa)
 
 #drukā tekstu
 mystring="sveika pasaule!"
-for burts in mytring:
+for burts in mystring:
   print(burts)
 
 for burts in "programma":
