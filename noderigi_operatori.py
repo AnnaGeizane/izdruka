@@ -46,4 +46,4 @@ shuffle(mylist)
 print(mylist)
 
 from random import randint
-print(randint(0,65))
+print(randint(0,65))# random intidžers
