@@ -1,1 +1,1 @@
-import uz_par_ciliem
+import funkc_spele
